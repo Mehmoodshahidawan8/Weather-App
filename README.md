@@ -1,22 +1,23 @@
-# Simple Weather App Tutorial
+# 🌤 Weather App – Stay Updated with Live Weather! ☀️🌧️🌪️  
 
-<p align="left">
-  <a href="https://discord.gg/fPrdqh3Zfu" alt="Dev Pro Tips Discussion & Support Server">
-    <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
-</p>
+A **happy & animated** Weather App that brings real-time weather updates with a touch of **fun animations**. 😃✨  
+Enter a city name, and boom! 🎉 Instant weather details! 🚀  
 
-Simple weather app using HTML, CSS, and JavaScript
+![Weather App Animation](assets/weather-app.gif)  
 
-![image](https://user-images.githubusercontent.com/20955511/111051345-0bcff300-845b-11eb-80ca-717a9a838e2c.png)
+## 🎯 Features  
+✅ **Live Weather Updates** (Temperature, Humidity, Wind Speed & More)  
+✅ **City Search** (Find weather of any city worldwide 🌎)  
+✅ **Animated Weather Icons** (Visual delight! 🎨)  
+✅ **Smooth UI & Fun Animations** (Because weather should never be boring!)  
 
-## Tutorial
+## 🔧 Technologies Used  
+- 🌍 **HTML, CSS, JavaScript**  
+- ☁️ **OpenWeather API** (for real-time weather data)  
+- 🎭 **CSS Animations & Transitions**  
 
-Weather App Tutorial 👉 https://youtube.com/watch?v=WZNG8UomjSI
-
-Geolocation Tutorial 👉 https://youtube.com/watch?v=JdJ2VBbYYTQ
-
-## Demo site
-
-Without Geolocation 👉 https://freshidea.com/jonah/app/weather
-
-With Geolocation 👉 https://freshidea.com/jonah/app/weather/geolocation
+## 📦 Installation  
+1. Clone the repo:  
+   ```bash
+   git clone https://github.com/mehmoodshahidawan8/weather-app.git
+   cd weather-app
